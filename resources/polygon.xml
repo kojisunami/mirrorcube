@@ -1,0 +1,35 @@
+<!DOCTYPE polygon >
+
+<polygon>
+
+<vertex id="0" x="0" y="0" z="0"></vertex>
+<vertex id="1" x="0" y="1" z="0"></vertex>
+<vertex id="2" x="1" y="1" z="0"></vertex>
+<vertex id="3" x="1" y="0" z="0"></vertex>
+<vertex id="4" x="0" y="0" z="1"></vertex>
+<vertex id="5" x="0" y="1" z="1"></vertex>
+<vertex id="6" x="1" y="1" z="1"></vertex>
+<vertex id="7" x="1" y="0" z="1"></vertex>
+
+<line id="0" x="0" y="1" ></line>
+<line id="1" x="1" y="2" ></line>
+<line id="2" x="2" y="3" ></line>
+<line id="3" x="3" y="0" ></line>
+<line id="4" x="4" y="5" ></line>
+<line id="5" x="5" y="6" ></line>
+<line id="6" x="6" y="7" ></line>
+<line id="7" x="7" y="4" ></line>
+<line id="8" x="0" y="4" ></line>
+<line id="9" x="1" y="5" ></line>
+<line id="10" x="2" y="6" ></line>
+<line id="11" x="3" y="7" ></line>
+
+<square id="0" color="0" x="0" y="1" z="2" w="3" ></square>
+<square id="1" color="1" x="2" y="10" z="6" w="11" ></square>
+<square id="2" color="2" x="1" y="10" z="5" w="9" ></square>
+<square id="3" color="3" x="3" y="11" z="7" w="8" ></square>
+<square id="4" color="4" x="0" y="9" z="4" w="8" ></square>
+<square id="5" color="5" x="4" y="5" z="6" w="7" ></square>
+
+</polygon>
+
